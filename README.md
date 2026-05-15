@@ -41,23 +41,23 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
 **Web & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Databases**
@@ -71,7 +71,7 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat&logo=jira&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -79,8 +79,8 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
 
 **Design**
 
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
 
@@ -93,7 +93,7 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
       <p>Deep learning outfit recommendation system based on the <em>OutfitAI</em> paper (Multimedia Tools and Applications, 2025). Given a photo of an outfit, it retrieves visually similar items from a clothing database using a RAG pipeline built on ViT-B, VGG-16, FAISS, and GPT-4o.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       </p>
@@ -103,38 +103,13 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
       <p>Full-stack booking system for university campus housing. Includes a React Native mobile app, FastAPI backend, PostgreSQL database, and a complete test suite with pytest, Playwright, and BDD Gherkin scenarios.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoamenFouad&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoamenFouad&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MoamenFouad&theme=github_dark_dimmed&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoamenFouad&theme=github_dark_dimmed&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoamenFouad&theme=github-compact&hide_border=true&area=true" />
-</p>
 
 ---
 
@@ -146,44 +121,10 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
   <img alt="Snake animation" src="https://raw.githubusercontent.com/MoamenFouad/MoamenFouad/snake-output/snake.svg" />
 </picture>
 
-<details>
-<summary>How to enable the snake animation</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: MoamenFouad
-          outputs: dist/snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: snake-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake Animation → Run workflow**.
-
-</details>
-
 ---
 
+## Contribution Graph
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MoamenFouad&icon=0&color=1" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoamenFouad&theme=github-compact&hide_border=true&area=true" />
 </p>
