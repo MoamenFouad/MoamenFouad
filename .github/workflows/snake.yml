@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: felicityblueish
+          github_user_name: MoamenFouad
           outputs: dist/snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
