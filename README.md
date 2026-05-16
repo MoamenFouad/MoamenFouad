@@ -113,12 +113,3 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
 
 ---
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoamenFouad/felicityblueishsnake-output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoamenFouad/felicityblueish/snake-output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/MoamenFouad/MoamenFouad/snake-output/snake.svg" />
-</picture>
-
-
