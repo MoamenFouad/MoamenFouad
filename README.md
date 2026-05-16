@@ -121,10 +121,4 @@ Computer Engineering student at E-JUST with a focus on AI integration, software 
   <img alt="Snake animation" src="https://raw.githubusercontent.com/MoamenFouad/MoamenFouad/snake-output/snake.svg" />
 </picture>
 
----
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoamenFouad&theme=github-compact&hide_border=true&area=true" />
-</p>
